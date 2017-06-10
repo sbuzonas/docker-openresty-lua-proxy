@@ -1,4 +1,4 @@
-FROM slbmeh/openresty:latest
+FROM sbuzonas/openresty:latest
 MAINTAINER Steve Buzonas <steve@fancyguy.com>
 
 RUN rm -rf conf/*
